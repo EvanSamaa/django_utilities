@@ -25,7 +25,7 @@ SECRET_KEY = 'pq)cuvdt=bz(ybu^@8eteji)t7*6cyr3zt*&rwzaqc6ffmoy5z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["http://evancloudplayground.ca"]
+ALLOWED_HOSTS = ["172.31.10.162", "http://evancloudplayground.ca"]
 
 
 # Application definition

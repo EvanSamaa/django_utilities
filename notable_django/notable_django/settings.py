@@ -80,9 +80,9 @@ DATABASES = {
          'OPTIONS': {
              'sql_mode': 'traditional',
          },
-         'NAME': 'awesome',
-         'USER': 'chris',
-         'PASSWORD': 'secret',
+         'NAME': 'virtrum_1',
+         'USER': 'evan',
+         'PASSWORD': '1004192759',
          'HOST': 'localhost',
          'PORT': '3306',
      }
